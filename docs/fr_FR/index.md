@@ -35,29 +35,30 @@ Puis définir :
 ![Page de configuration](../images/tendaac_screenshot1.png "Page de configuration")
 
 Dashboard
-===
+=========
 
 ![Visuel du dashboard](../images/Dashboard.png "Visuel du dashboard")
 
 Page Santé
-===
+==========
 
 ![Page Santé](../images/tendaac_screenshot2.png "Page Santé")
 
 
-### FAQ
-===
+FAQ
+=======
 
-### A quelle fréquence les données sont-elles mises à jour ?
+A quelle fréquence les données sont-elles mises à jour ?
 -------------------------------------------------------
 
 Les données sont rafraichies toutes les heures par défaut.
 Selectionnez la fréquence de rafraichissement des informations via la page Équipement.
 
-### Ce plugin ne génère pas de log, comment en avoir ?
+Ce plugin ne génère pas de log, comment en avoir ?
 --------------------------------------------------
 Il est nécessaire au préalable d’activer temporairement le debug de Jeedom (menu Configuration ⇒ Configuration des logs & messages ⇒ Activer + Niveau de log = Debug).
 
-### Liste des versions
+Changelog
+------------------
 
 *[Voir la liste des versions](changelog.md)*

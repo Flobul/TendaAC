@@ -39,6 +39,12 @@ Dashboard
 
 ![Visuel du dashboard](../images/Dashboard.png "Visuel du dashboard")
 
+Page Santé
+===
+
+![Page Santé](../images/tendaac_screenshot2.png "Page Santé")
+
+
 ### FAQ
 ===
 
@@ -51,11 +57,6 @@ Selectionnez la fréquence de rafraichissement des informations via la page Équ
 ### Ce plugin ne génère pas de log, comment en avoir ?
 --------------------------------------------------
 Il est nécessaire au préalable d’activer temporairement le debug de Jeedom (menu Configuration ⇒ Configuration des logs & messages ⇒ Activer + Niveau de log = Debug).
-
-### J'aimerais remonter des erreurs/modifications directement dans le code ?
------------------------------------------------------------------------
-C’est tout à fait possible via
-[github](https://github.com/Flobul/Jeedom-TendaAC/)
 
 ### Liste des versions
 

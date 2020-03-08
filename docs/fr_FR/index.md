@@ -55,7 +55,7 @@ Page Santé
 
 
 FAQ
-=======
+===
 
 A quelle fréquence les données sont-elles mises à jour ?
 -------------------------------------------------------
@@ -68,6 +68,6 @@ Ce plugin ne génère pas de log, comment en avoir ?
 Il est nécessaire au préalable d’activer temporairement le debug de Jeedom (menu Configuration ⇒ Configuration des logs & messages ⇒ Activer + Niveau de log = Debug).
 
 Changelog
-------------------
+=========
 
 *[Voir la liste des versions](changelog.md)*

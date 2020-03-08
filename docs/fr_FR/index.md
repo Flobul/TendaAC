@@ -20,17 +20,22 @@ Puis définir :
 
 -   *Objet parent*
 
--   *Catégorie *(optionnelle)
+-   *Catégorie* (optionnel)
 
--   *Activer '*'(à cocher, sinon l’équipement ne sera pas utilisable)
+-   *Activer* (à cocher, sinon l’équipement ne sera pas utilisable)
 
--   *Visible '*'(optionel si vous ne désirez pas le rendre visible sur le Dashboard)
+-   *Visible* (optionel si vous ne désirez pas le rendre visible sur le Dashboard)
 
 -   *Adresse IP*
 
--   *Mot de passe*(optionnel si votre routeur n'en a pas)
+-   *Mot de passe* (optionnel si votre routeur n'en a pas)
 
--   *Rafraichissement*(par défaut sur 1 heure)
+-   *Rafraîchissement* (par défaut sur 1 heure)
+
+Page de configuration
+=========
+
+Une fois que vous avez entré les informations de votre routeur et que celui-ci est présent, vous pouvez effectuer la sauvegarde du fichier de configuration depuis cette page.
 
 ![Page de configuration](../images/tendaac_screenshot1.png "Page de configuration")
 

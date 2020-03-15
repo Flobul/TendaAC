@@ -3,6 +3,11 @@ Changelog
 
 Liste des versions du plugin Tenda AC.
 
+Version 1.01 (15/03/2020)
+-------------------------
+* Ajout de champs au tableau liste connectés (vitesse DL/UL, Connectivité)
+* Gestion d'un bug valeurs vides
+
 Version 1.0 (08/03/2020)
 -------------------------
 * Ajout info vitesse de récéption/émission et temps de connexion WAN

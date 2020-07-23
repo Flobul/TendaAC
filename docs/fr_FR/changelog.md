@@ -3,6 +3,15 @@ Changelog
 
 Liste des versions du plugin Tenda AC.
 
+Version 1.10 (23/07/2020)
+-------------------------
+* Ajout de la gestion des clients connectés au routeur (ip, mac, connecté, wifi/ethernet, debits up/down).
+    * Création d’un équipement par client connecté.
+    * Découverte automatique des clients, possibilité d’ignorer les déconnectés, supprimer la liste des clients…
+    * Gestion des ignorés depuis le menu configuration.
+* Correction bug d’affichage.
+
+
 Version 1.01 (15/03/2020)
 -------------------------
 * Ajout de champs au tableau liste connectés (vitesse DL/UL, Connectivité)
